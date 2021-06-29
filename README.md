@@ -6,3 +6,6 @@
 - DeepTXT：  DSSM等文本相关深度学习算法
 
 Welcome to pull requests!
+
+my learning is now
+focus on some ctr methods
